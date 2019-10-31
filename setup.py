@@ -55,7 +55,7 @@ setup(
     license = "Apache Software License",
     author = "Gary Wisniewski",
     author_email = "garyw@blueseastech.com",
-    url = "http://github.com/garywiz/chaperone",
+    url = "https://github.com/garywiz/chaperone",
     keywords = "docker init systemd syslog",
 
     install_requires = requires_list,
