@@ -4,7 +4,7 @@ process clean-up, rudimentary logging, and service management without the overhe
 complex configuration.
 
 ================   ======================================================
-Documentation      http://garywiz.github.io/chaperone
-chaperone Source   http://github.com/garywiz/chaperone
-pypi link          http://pypi.python.org/pypi/chaperone
+Documentation      https://garywiz.github.io/chaperone
+chaperone Source   https://github.com/garywiz/chaperone
+pypi link          https://pypi.python.org/pypi/chaperone
 ================   ======================================================
